@@ -1,0 +1,22 @@
+h2{
+    color: #4bbfb8; 
+    font-size: x-large; 
+    font-family: arimo; 
+    font-weight: bolder;
+    text-align: center;
+}
+
+.logo{
+    border-radius: 10px;
+    height: 30px;
+    width: 30px;
+}
+
+.footer {
+    background: black;
+}
+
+.card-body {
+    background-color: #0a3545; 
+    color: white;
+}
